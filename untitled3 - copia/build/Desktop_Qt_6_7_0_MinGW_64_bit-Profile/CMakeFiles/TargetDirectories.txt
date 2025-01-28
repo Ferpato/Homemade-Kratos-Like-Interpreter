@@ -1,0 +1,9 @@
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/untitled3.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/edit_cache.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/rebuild_cache.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/list_install_components.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/install.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/install/local.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/install/strip.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/untitled3_autogen_timestamp_deps.dir
+D:/Fernando/ITD/6 Semestre/Lenguajes y automatas/untitled3 - copia/build/Desktop_Qt_6_7_0_MinGW_64_bit-Profile/CMakeFiles/untitled3_autogen.dir
